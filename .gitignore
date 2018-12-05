@@ -1,0 +1,6 @@
+.vscode/
+.chainer/
+venv/
+cat.jpg
+MEMO.md
+synset_words.txt
