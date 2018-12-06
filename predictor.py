@@ -46,7 +46,7 @@ def predict_image(image_filename):
     # モデルとラベルデータを読み込む
     model = load_model()
     labels = load_labels()
-    # 画像とラベルデータの読み込み
+    # 画像を読み込む
     img = Image.open(image_filename)
     # 画像の識別
     pre = model.predict([img])

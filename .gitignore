@@ -1,6 +1,8 @@
 .vscode/
 .chainer/
 venv/
+images/
+__pycache__/
 cat.jpg
 MEMO.md
 synset_words.txt
